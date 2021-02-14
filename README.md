@@ -7,12 +7,12 @@ A list of demostratives minimal web apps to provide trial inferences of deep lea
 
 1. [DeepCrack](https://deepcrackcpu.herokuapp.com/), [Repo:Original](https://github.com/yhlleo/DeepSegmentor), [Repo:Adapted to web](https://github.com/DZDL/crack-detector).
 2. [Fishv3](https://fishv3.herokuapp.com/), [Repo:Original](https://github.com/Cuda-Chen/fish-yolo-grabcut), [Repo:Adapted to web](https://github.com/DZPeru/fishv3).
-2. [Fishv4](https://fishv4.herokuapp.com/), [Repo:Original](-), [Repo:Adapted to web](https://github.com/DZPeru/fishv3).
+2. [Fishv4](https://fishv4.herokuapp.com/), [Repo:Original](#), [Repo:Adapted to web](https://github.com/DZPeru/fishv3).
 
 
 ## Audio
 
-1. [DNP: Speech Denoising by Accumulating Per-Frequency Modeling Fluctuations](#), [Repo:Original](-), [Repo:Adapted to web](-).
+1. [DNP: Speech Denoising by Accumulating Per-Frequency Modeling Fluctuations](#), [Repo:Original](#), [Repo:Adapted to web](#).
 
 -----
 ### Contributing
