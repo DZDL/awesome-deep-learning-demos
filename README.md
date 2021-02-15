@@ -12,7 +12,7 @@ A list of demostratives minimal web apps to provide trial inferences of deep lea
 
 ## Audio
 
-1. [DNP: Speech Denoising by Accumulating Per-Frequency Modeling Fluctuations](#), [Repo:Original](#), [Repo:Adapted to web](#).
+1. [DNP](#), [Repo:Original](#), [Repo:Adapted to web](#). `Speech Denoising by Accumulating Per-Frequency Modeling Fluctuations
 
 -----
 ### Contributing
