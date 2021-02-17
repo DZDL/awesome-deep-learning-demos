@@ -12,7 +12,8 @@ A list of demostratives minimal web apps to provide trial inferences of deep lea
 
 ## Audio
 
-1. [DNP](#), [Repo:Original](#), [Repo:Adapted to web](#). `Speech Denoising by Accumulating Per-Frequency Modeling Fluctuations`
+1. [Speech-enhancement](https://github.com/DZDL/audio-denoising), [Repo:Original](#), [Repo:Adapted to web](#).
+2. [DNP](#), [Repo:Original](#), [Repo:Adapted to web](#). `Speech Denoising by Accumulating Per-Frequency Modeling Fluctuations`
 
 -----
 ### Contributing
@@ -20,4 +21,5 @@ Have anything in mind that you think is awesome and would fit in this list? Feel
 
 -----
 ## License
-MIT
+
+This repository is under MIT license.
